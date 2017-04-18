@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentroOdontologicoAPI", "CentroOdontologicoAPI\CentroOdontologicoAPI.csproj", "{B07FB7A7-B205-4546-9A64-D40A13BEAEF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-AplicationLayer", "01-AplicationLayer", "{9478DCC4-B0FE-439D-A32C-89CA0ADC4DFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-BusinessLayer", "02-BusinessLayer", "{5BDD2393-3710-4C87-A566-9BF144E340F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-DataLayer", "03-DataLayer", "{81DC4C51-246C-49CE-B651-DE461FA03AF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-CommonLayer", "04-CommonLayer", "{9E8777CE-B298-4781-8DF8-6FCCEA662949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentroOdontologicoBussines", "CentroOdontologicoBussines\CentroOdontologicoBussines.csproj", "{E69958D4-2ADC-43BA-BFCE-FEBE8A8947F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentroOdontologicoModel", "CentroOdontologicoModel\CentroOdontologicoModel.csproj", "{DBD969F4-604B-43D8-82DC-AFE74E000D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentroOdontologicoData", "CentroOdontologicoData\CentroOdontologicoData.csproj", "{60023399-12BF-46DD-B045-F7B6C7422938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentroOdontologicoUtil", "CentroOdontologicoUtil\CentroOdontologicoUtil.csproj", "{B05D3FF2-987A-4AF5-9CB1-3CE1268B329A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07FB7A7-B205-4546-9A64-D40A13BEAEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07FB7A7-B205-4546-9A64-D40A13BEAEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07FB7A7-B205-4546-9A64-D40A13BEAEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07FB7A7-B205-4546-9A64-D40A13BEAEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E69958D4-2ADC-43BA-BFCE-FEBE8A8947F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69958D4-2ADC-43BA-BFCE-FEBE8A8947F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E69958D4-2ADC-43BA-BFCE-FEBE8A8947F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E69958D4-2ADC-43BA-BFCE-FEBE8A8947F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD969F4-604B-43D8-82DC-AFE74E000D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD969F4-604B-43D8-82DC-AFE74E000D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD969F4-604B-43D8-82DC-AFE74E000D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD969F4-604B-43D8-82DC-AFE74E000D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60023399-12BF-46DD-B045-F7B6C7422938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60023399-12BF-46DD-B045-F7B6C7422938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60023399-12BF-46DD-B045-F7B6C7422938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60023399-12BF-46DD-B045-F7B6C7422938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05D3FF2-987A-4AF5-9CB1-3CE1268B329A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05D3FF2-987A-4AF5-9CB1-3CE1268B329A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05D3FF2-987A-4AF5-9CB1-3CE1268B329A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05D3FF2-987A-4AF5-9CB1-3CE1268B329A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B07FB7A7-B205-4546-9A64-D40A13BEAEF7} = {9478DCC4-B0FE-439D-A32C-89CA0ADC4DFB}
+		{E69958D4-2ADC-43BA-BFCE-FEBE8A8947F9} = {5BDD2393-3710-4C87-A566-9BF144E340F1}
+		{DBD969F4-604B-43D8-82DC-AFE74E000D95} = {5BDD2393-3710-4C87-A566-9BF144E340F1}
+		{60023399-12BF-46DD-B045-F7B6C7422938} = {81DC4C51-246C-49CE-B651-DE461FA03AF7}
+		{B05D3FF2-987A-4AF5-9CB1-3CE1268B329A} = {9E8777CE-B298-4781-8DF8-6FCCEA662949}
+	EndGlobalSection
+EndGlobal
