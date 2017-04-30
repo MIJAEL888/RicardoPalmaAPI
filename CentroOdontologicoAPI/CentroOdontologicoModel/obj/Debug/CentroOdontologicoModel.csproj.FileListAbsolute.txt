@@ -1,0 +1,5 @@
+D:\WorkSpaceVisual\RicardoPalmaAPI\CentroOdontologicoAPI\CentroOdontologicoModel\bin\Debug\CentroOdontologicoModel.dll
+D:\WorkSpaceVisual\RicardoPalmaAPI\CentroOdontologicoAPI\CentroOdontologicoModel\bin\Debug\CentroOdontologicoModel.pdb
+D:\WorkSpaceVisual\RicardoPalmaAPI\CentroOdontologicoAPI\CentroOdontologicoModel\obj\Debug\CentroOdontologicoModel.dll
+D:\WorkSpaceVisual\RicardoPalmaAPI\CentroOdontologicoAPI\CentroOdontologicoModel\obj\Debug\CentroOdontologicoModel.pdb
+D:\WorkSpaceVisual\RicardoPalmaAPI\CentroOdontologicoAPI\CentroOdontologicoModel\obj\Debug\CentroOdontologicoModel.csprojResolveAssemblyReference.cache
